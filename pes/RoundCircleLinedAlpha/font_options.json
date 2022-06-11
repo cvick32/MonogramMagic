@@ -1,0 +1,18 @@
+{
+    "type": "monogram",
+    "sizes": {
+	"a": "1in",
+	"b": "2in",
+	"c": "3in",
+	"d": "4in"
+    },
+    "uppers": {
+	"prefix": "",
+	"postfix": ".pes"
+    },
+    "lowers": {},
+    "numbers": {},
+    "left": {},
+    "center": {},
+    "right": {}
+}

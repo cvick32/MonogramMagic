@@ -1,0 +1,8 @@
+altgraph==0.17.2
+Babel==2.9.1
+macholib==1.15.2
+pyembroidery==1.4.31
+pyinstaller==4.5.1
+pyinstaller-hooks-contrib==2021.3
+pytz==2021.3
+tkcalendar==1.6.1
