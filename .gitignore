@@ -1,0 +1,8 @@
+*.png
+dist/
+build/
+*.exe
+*.spec
+__pycache__
+*~
+**/*BookPage.pes
