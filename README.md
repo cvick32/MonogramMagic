@@ -22,6 +22,7 @@ Please file an issue on Github if anything is unclear or left underspecifed!
 
 # Introductory Video
 
+https://vimeo.com/719649498
 
 # How it Works
 
