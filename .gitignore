@@ -1,8 +1,8 @@
 *.png
+mono-mag/
 dist/
 build/
 *.exe
 *.spec
 __pycache__
 *~
-**/*BookPage.pes

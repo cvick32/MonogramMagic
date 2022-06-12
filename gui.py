@@ -14,7 +14,7 @@ from monogram import monogram
 APPLICATION_FONT = "Courier"
 
 platforms = {
-    "mac": ("/Users/colevick/Documents/cs/projects/MonogramMagic/pes/", "/Users/colevick/Monograms/")
+    "mac": ("./fonts/", "./Monograms/")
 }
 
 readable = [
